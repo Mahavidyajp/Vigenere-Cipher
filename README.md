@@ -97,11 +97,7 @@ void decipher() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-04 151439](https://github.com/user-attachments/assets/301e47bf-0634-48d3-8cf0-6eb6d45a6ba3)
-
-![Screenshot 2024-09-04 151602](https://github.com/user-attachments/assets/c72e8166-e63c-428f-bb11-baeba3e8f0f0)
-
-![Screenshot 2024-09-04 151627](https://github.com/user-attachments/assets/dba78ab1-350a-4640-bbb1-cbf86cc08066)
+![Screenshot 2024-09-04 155525](https://github.com/user-attachments/assets/d888e0ea-64b9-49db-95a9-b719860cd28e)
 
 
 ## RESULT:
